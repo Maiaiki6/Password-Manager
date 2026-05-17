@@ -1,0 +1,4 @@
+build/
+dist/
+password_manager.spec
+__pycache__/
